@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>document</html>
+	</head>
+	<body>
+		<h1>nama : musaddiq </h1>
+		<h2>asal : sinjai</h2>
+		<h1>jurusan : teknik informatika </h1>
+		<h1>angkatan : 2016</h1>
+	</body>
+</html>
